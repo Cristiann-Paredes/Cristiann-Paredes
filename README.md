@@ -1,4 +1,5 @@
-Cristiann-Paredes
+##Curriculum  Cristian-Paredes
+
 # 💫 About Me:
  Hola mi nombre es Cristian actualmente estoy cursando la carrera de Desarrollo de software, tengo 22 años y vivo al norte de  Quito me considero como una persona que tiene un gran carisma y una gran actitud, me gusta ser amable con quien me rodea,  espero triunfar en la carrera que actualmente estoy sonrisa.
 
